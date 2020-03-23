@@ -1,4 +1,4 @@
 env
-average_distance_traveled.html
+*.html
 .idea
 __pycache__
